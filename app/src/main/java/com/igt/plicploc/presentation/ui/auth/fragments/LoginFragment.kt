@@ -1,11 +1,7 @@
-package com.igt.plicploc.presentation.ui.fragments
+package com.igt.plicploc.presentation.ui.auth.fragments
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
-import android.view.LayoutInflater
-import android.view.View
-import android.view.ViewGroup
-import com.igt.plicploc.R
 
 class LoginFragment : Fragment() {
 
